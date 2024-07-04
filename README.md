@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 🔭 I’m currently working on my Skills.
-### 🌱 I’m currently learning DevOps Engeneering.
+### 🌱 I’m currently learning DevOps Engineering.
 
 <!--
 **AbhishekGoswam1/AbhishekGoswam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
