@@ -1,6 +1,11 @@
 ## Hi there 👋
-### 🔭 I’m currently working on my Skills.
-### 🌱 I’m currently learning DevOps Engineering.
+### 🔭 I’m currently working on enhancing my skills
+### 🌱 I’m currently learning
+<ul>
+  <li>JavaScript</li>
+  <li>React JS</li>
+  <li>Front-End Development</li>
+</ul>
 
 ### 🤝 Connect with me:
 
