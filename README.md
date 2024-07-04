@@ -1,8 +1,11 @@
-<!-- <img alt=”React” src=”[https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/> -->
-
 ## Hi there 👋
 ### 🔭 I’m currently working on my Skills.
 ### 🌱 I’m currently learning DevOps Engineering.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/abhishek-goswamii/"><img align="left" src="https://raw.githubusercontent.com/AbhishekGoswam1/AbhishekGoswam1/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/abhi_shek.in"><img align="left" src="https://raw.githubusercontent.com/AbhishekGoswam1/AbhishekGoswam1/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 <!--
 **AbhishekGoswam1/AbhishekGoswam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
