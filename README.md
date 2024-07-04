@@ -4,13 +4,15 @@
 <ul>
   <li>React JS</li>
   <li>Front-End Development</li>
-  <li>DevOps Basics</li>
+<!--   <li>DevOps Basics</li> -->
 </ul>
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishek-goswamii/"><img align="left" src="https://raw.githubusercontent.com/AbhishekGoswam1/AbhishekGoswam1/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/abhi_shek.in"><img align="left" src="https://raw.githubusercontent.com/AbhishekGoswam1/AbhishekGoswam1/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
+</br>
 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
