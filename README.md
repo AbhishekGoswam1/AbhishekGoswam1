@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AbhishekGoswam1)](https://github.com/AbhishekGoswam1) for github stats -->
+
 <!--
 **AbhishekGoswam1/AbhishekGoswam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
