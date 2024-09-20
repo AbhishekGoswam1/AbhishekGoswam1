@@ -1,8 +1,5 @@
 ## Hi there 👋
-### 🔭 I’m currently working on enhancing my skills
-### 🌱 I’m currently learning
-- React JS
-- Front-End Development
+### Front-end Developer
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abhishek-goswamii/"><img align="left" src="https://raw.githubusercontent.com/AbhishekGoswam1/AbhishekGoswam1/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
